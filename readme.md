@@ -29,7 +29,7 @@ https://github.com/DanielPetroni/API-Emporio
 https://github.com/Leoquallio/Flutter-Emporio
 
 # Desenvolvedores
-Ana Larysa Silva Lima
-Daniel Petroni
-Léo da Silva Quallio
-Professor José Matias Lemes Filho
+- Ana Larysa Silva Lima
+- Daniel Petroni
+- Léo da Silva Quallio
+- Professor José Matias Lemes Filho
